@@ -1,0 +1,19 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "react esop\u001b[D\u001b[Dhop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Camilo Guzman <camiloge_91@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
